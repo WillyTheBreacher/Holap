@@ -17,6 +17,6 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Se notaba 🏳️‍🌈');
+    alert('Yay');
 });
 
